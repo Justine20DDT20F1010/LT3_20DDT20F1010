@@ -1,0 +1,15 @@
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\bin\Debug\LabTask3_20DDT20F1010.exe.config
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\bin\Debug\LabTask3_20DDT20F1010.exe
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\bin\Debug\LabTask3_20DDT20F1010.pdb
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\bin\Debug\LabTask3_20DDT20F1010.xml
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\obj\Debug\LabTask3_20DDT20F1010.vbproj.AssemblyReference.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\obj\Debug\LabTask3_20DDT20F1010.Resources.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\obj\Debug\LabTask3_20DDT20F1010.vbproj.GenerateResource.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\obj\Debug\LabTask3_20DDT20F1010.vbproj.CoreCompileInputs.cache
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\obj\Debug\LabTask3_20DDT20F1010.exe
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\obj\Debug\LabTask3_20DDT20F1010.xml
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\obj\Debug\LabTask3_20DDT20F1010.pdb
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\obj\Debug\LabTask3_20DDT20F1010.Dave_Tech.resources
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\asus\Pictures\Assigment Visual Programming\Assessment\LabTask3_20DDT20F1010_DDT5A\LT3_20DDT20F1010\LabTask3_20DDT20F1010\obj\Debug\LabTask3_20DDT20F1010.vbproj.CopyComplete
